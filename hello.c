@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     char input[50];
     printf("What is your name? ");
     scanf("%s", input);
